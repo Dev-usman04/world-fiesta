@@ -9,7 +9,7 @@ export default function About() {
           About Culturo 🎉
         </h2>
         <p className="text-xl text-gray-700 mb-6 text-center animate-slide-up delay-100">
-          Culturo is a platform dedicated to celebrating the diversity of cultural festivals worldwide. Our mission is to connect people with vibrant traditions, from the colorful parades of Rio Carnival to the serene rituals of Timkat in Ethiopia.
+          Worldfiesta is a platform dedicated to celebrating the diversity of cultural festivals worldwide. Our mission is to connect people with vibrant traditions, from the colorful parades of Rio Carnival to the serene rituals of Timkat in Ethiopia.
         </p>
         <p className="text-xl text-gray-700 mb-8 text-center animate-slide-up delay-200">
           Use our interactive map and filters to explore festivals by month, region, or country, and immerse yourself in the beauty of global cultures.
